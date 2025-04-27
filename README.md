@@ -46,6 +46,8 @@ This image classifier is deployed in a **Flutter app** using **TensorFlow Lite**
 - Simple user interface for uploading images
 - High accuracy with 92% test accuracy
 - Deployed using TensorFlow Lite for mobile optimization
+## App Code
+The code for the app can be accessed at [Fruit Image Classifier](https://github.com/IkramMehmmod/image-classifier.git).
 
 ### App Screenshots
 Here are some screenshots of the app:
