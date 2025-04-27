@@ -49,8 +49,8 @@ This image classifier is deployed in a **Flutter app** using **TensorFlow Lite**
 
 ### App Screenshots
 Here are some screenshots of the app:
-1. ![App Screenshot 1](appss1.png)
-2. ![App Screenshot 2](appss2.png)
+1. ![App Screenshot 1](app ss1.png)
+2. ![App Screenshot 2](app ss2.png)
 
 ## Files
 - [Google Drive Link for .h5 model and dataset](your-link-here)
