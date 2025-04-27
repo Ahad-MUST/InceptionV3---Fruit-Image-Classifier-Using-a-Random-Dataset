@@ -33,9 +33,9 @@ InceptionV3 is a deep convolutional neural network architecture designed to work
 - **Model**: InceptionV3 with additional layers of **GlobalAveragePooling2D**, **Dense(1024, relu)**, and **Dense(n_classes, softmax)**
 
 ## Results
-- **Training & Validation Loss**: ![Training & Validation Loss](train-val loss.png)
-- **Confusion Matrix**: ![Confusion Matrix](screenshots/Confusion matrix.png)
-- **ROC Curve**: ![ROC Curve](screenshots/ROC curve.png)
+- **Training & Validation Loss**: ![Training & Validation Loss](train-val.png)
+- **Confusion Matrix**: ![Confusion Matrix](CM.png)
+- **ROC Curve**: ![ROC Curve](ROC.png)
 
 ## App Description
 
@@ -49,8 +49,8 @@ This image classifier is deployed in a **Flutter app** using **TensorFlow Lite**
 
 ### App Screenshots
 Here are some screenshots of the app:
-1. ![App Screenshot 1](app ss1.png)
-2. ![App Screenshot 2](app ss2.png)
+1. ![App Screenshot 1](app1.png)
+2. ![App Screenshot 2](app2.png)
 
 ## Files
 - [Google Drive Link for .h5 model and dataset](your-link-here)
